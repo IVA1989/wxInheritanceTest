@@ -1,0 +1,2 @@
+# wxInheritanceTest
+first
